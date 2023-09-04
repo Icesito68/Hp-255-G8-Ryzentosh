@@ -8,10 +8,9 @@ EFI for install MacOS on Hp 255 G8
 - Ryzen 5 5500U (Lucienne)
 - Vega 7
 - 8 or 16GB DDR4 3200Mhz RAM
-- Conexant Audio CX8050
+- Audio CX8050
 - Realtek RTL8821CE
 - ALC236
-- ELAN Trackpad
 
 ## What's working?
 
