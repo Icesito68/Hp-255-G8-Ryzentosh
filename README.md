@@ -15,3 +15,8 @@ EFI for install MacOS on Hp 255 G8
 ## What's working?
 
 I dont know lol
+
+## Thanks To
+
+[<img alt="ArturoGC06" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/76574534?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ArtturoGC06)
+[<img alt="ReinierTutoriales" src="https://images.weserv.nl/?url=https://https://avatars.githubusercontent.com/u/86568548?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ReinierTutoriales)
