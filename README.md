@@ -10,7 +10,7 @@ EFI for install MacOS on Hp 255 G8
 - 8 or 16GB DDR4 3200Mhz RAM
 - Audio CX8050
 - Realtek RTL8821CE
-- ALC236
+- Audio ALC236
 
 ## What's working?
 
