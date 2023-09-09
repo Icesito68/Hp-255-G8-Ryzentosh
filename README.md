@@ -14,7 +14,30 @@ EFI for install MacOS on Hp 255 G8
 
 ## What's working?
 
-I dont know lol
+- Trackpad and Keyboard (With FN keys)
+
+- GPU acceleration
+
+- Audio
+
+- USB
+
+- HDMI Output
+
+
+## What's not working?
+
+- Wifi
+
+- Bluetooth
+
+- Camera
+
+## Not tested
+
+- Micro Sd card reader
+
+- Sleep
 
 ## Guide
 
