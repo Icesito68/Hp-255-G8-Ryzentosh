@@ -27,6 +27,8 @@ EFI for install MacOS on Hp 255 G8
 
 ## What's not working?
 
+- Stock nvme (Must be replaced)
+
 - Wifi
 
 - Bluetooth
