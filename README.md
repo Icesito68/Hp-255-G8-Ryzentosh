@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Icesito68/Hp-255-G8-Ryzentosh/blob/main/IMG_20250326_235903.jpg" alt="Hp 255 G8 Ryzentosh">
+<img align="center" src="https://github.com/Icesito68/Hp-255-G8-Ryzentosh/blob/main/Hp-255-G8-Picture.jpg" alt="Hp 255 G8 Ryzentosh">
 
 # Hp-255-G8-Ryzentosh
 EFI for install MacOS on Hp 255 G8
